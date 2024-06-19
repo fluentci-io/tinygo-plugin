@@ -1,5 +1,6 @@
 # TinyGo Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/tinygo)](https://pkg.fluentci.io/tinygo)
 [![ci](https://github.com/fluentci-io/tinygo-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/tinygo-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [tinygo](https://tinygo.org/).
